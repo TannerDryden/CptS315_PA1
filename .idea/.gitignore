@@ -1,3 +1,6 @@
 # Default ignored files
 /shelf/
+/*.iws
+/vcs.xml
+/tasks.xml
 /workspace.xml
